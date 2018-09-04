@@ -1,2 +1,2 @@
 # GL.github.io
-VEF1VG Verkefni
+Verkefni 1
